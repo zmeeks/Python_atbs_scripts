@@ -1,7 +1,7 @@
 *** R E A D M E ***
 * * * * * * * * * *
 
-Most of the scripts here are solutions from scripting-projects in the book
+Most of the scripts here are my solutions to scripting-projects in the book
 ‘Automate The Boring Stuff with Python’ by Al Sweigart.  Included in each
 script is the chapter and page number that the script is given as a project
 or given as a script if it was a learning script.  I’ve included a few scripts
