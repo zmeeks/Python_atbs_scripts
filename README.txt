@@ -9,6 +9,6 @@ here that were just learning scripts.  I typically only solved project scripts t
 were new or interesting to me.  
 
 Note: you may need to add your own values in some of the scripts (such as email address
-values or API keys.
+values or API keys).
 Note: you may need to download book materials in order for some of the scripts to run 
-properly.  The book and its materials may be found online for free at automatetheboringstuff.com/
+properly.  The book and its materials may be found online for free at automatetheboringstuff.com
